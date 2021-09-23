@@ -1,0 +1,4 @@
+{
+    "python.analysis.indexing": true,
+    "python.analysis.logLevel": "Trace"
+}
