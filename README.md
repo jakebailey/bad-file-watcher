@@ -8,4 +8,5 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Open the repo in VS Code Insiders, then check the "Python Language Server" output; it should be looping.
+Open the repo in VS Code Insiders, navigate to `main.py` to activate things,
+then check the "Python Language Server" output; it should be looping.
